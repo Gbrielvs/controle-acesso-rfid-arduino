@@ -144,19 +144,6 @@ Para descobrir o UID:
 
 ---
 
-## 📂 Estrutura do repositório
-
-```
-/projeto_fechadura.ino     # firmware Arduino
-```
-
----
-
-## 📜 Licença
-
-Defina uma licença (ex.: **MIT**) em `LICENSE` para permitir uso e contribuições.
-
----
 
 ## 🤝 Créditos
 
