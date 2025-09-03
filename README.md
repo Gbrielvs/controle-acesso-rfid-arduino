@@ -153,4 +153,5 @@ Defina uma licença (ex.: **MIT**) em `LICENSE` para permitir uso e contribuiç�
 Projeto desenvolvido para apresentação da Máteria de **Sistemas Embarcados Cuiabá-MT.**
 Hardware: Arduino Uno, RC522, LCD I²C, relé 5V, buzzer, fechadura 12V.
 
+[![Canva](https://img.shields.io/badge/Slides-Canva-00C4CC?logo=Canva&logoColor=white)](https://www.canva.com/design/DAGxx7xiWSc/k8aTuja6I3d6Lep2KpNASQ/edit?utm_content=DAGxx7xiWSc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
